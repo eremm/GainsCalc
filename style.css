@@ -1,0 +1,50 @@
+.holder {
+    width: 270px;
+    padding: 10px 10px 10px 10px;
+    border: solid 1px black;
+    box-sizing: border-box;
+  }
+  
+  .title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .not-gains-holder {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .input-name {
+    width: 50px;
+    display: inline-block;
+    text-align: right;
+  }
+  
+  .input-value {
+    width: 50px;
+    text-align: right;
+  }
+  
+  .sexes {
+    text-align: center;
+  }
+  
+  .gains-holder {
+    text-align: center;
+  }
+  
+  .gains-button {
+    justify-content: center;
+  }
+  
+  .eat-holder {
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .eat {
+    display: none;
+  }
